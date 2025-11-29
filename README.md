@@ -218,7 +218,7 @@ Highest revenue generators.
 
 
 
-<img width="1137" height="591" alt="Image" src="https://github.com/user-attachments/assets/cd4cc252-e95b-49fc-ab72-ca08333bb0f8" />
+<img width="1203" height="633" alt="Image" src="https://github.com/user-attachments/assets/eda1b0c6-0b95-4c43-95c8-b738136e4b40" />
 
 
 
@@ -228,7 +228,7 @@ Highest revenue generators.
 
 
 
-<img width="1203" height="633" alt="Image" src="https://github.com/user-attachments/assets/eda1b0c6-0b95-4c43-95c8-b738136e4b40" />
+<img width="1137" height="591" alt="Image" src="https://github.com/user-attachments/assets/cd4cc252-e95b-49fc-ab72-ca08333bb0f8" />
 
 
 
