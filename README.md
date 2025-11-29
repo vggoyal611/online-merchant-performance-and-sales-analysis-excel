@@ -193,7 +193,74 @@ Highest revenue generators.
 ---
 
 ## <a id="screenshots"></a> 📸 Screenshots  
-*(Insert your dashboard screenshots here)*  
+- Dashboard Overview (Main Dashboard)
+
+
+
+
+<img width="887" height="597" alt="Image" src="https://github.com/user-attachments/assets/49454e91-a3c8-45d6-88fc-6d36ae4db831" />
+
+
+
+
+- Sales vs Orders Chart
+
+
+
+
+<img width="1448" height="392" alt="Image" src="https://github.com/user-attachments/assets/69418714-f566-4473-bec4-5d0916520a4e" />
+
+
+
+
+- Highest Sales by Age Group
+
+
+
+
+<img width="1137" height="591" alt="Image" src="https://github.com/user-attachments/assets/cd4cc252-e95b-49fc-ab72-ca08333bb0f8" />
+
+
+
+
+- Customer Density Map
+
+
+
+
+<img width="1203" height="633" alt="Image" src="https://github.com/user-attachments/assets/eda1b0c6-0b95-4c43-95c8-b738136e4b40" />
+
+
+
+
+- Sales by Gender (Men vs Women)
+
+
+
+
+<img width="1166" height="570" alt="Image" src="https://github.com/user-attachments/assets/091cfe92-ba65-44de-81d1-549315222f38" />
+
+
+
+
+- Platform Preference / Online Apps Used
+
+
+
+
+<img width="991" height="567" alt="Image" src="https://github.com/user-attachments/assets/e79afb1b-e0c3-4095-afbe-acc81cb3524b" />
+
+
+
+
+- Order Status Summary
+
+
+
+<img width="1145" height="576" alt="Image" src="https://github.com/user-attachments/assets/4f8d083b-db4b-49f6-bcde-f0112a436b27" />
+
+
+ 
 
 ---
 
